@@ -64,7 +64,6 @@ return 1+1;
 The first snippet has a self-referential function call just before the final semicolon where the second doesn't. That means `x` will invoke the function and return `2` but to invoke the function associated with `y`, you'd have to use `y()`.
 
 ## Practical
----
 
 ##### 1. Write HTML/CSS to draw the following scene (inline css is fine if you want):
 #####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. One red box, 200x200 pixels
