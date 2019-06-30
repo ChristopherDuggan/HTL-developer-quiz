@@ -1,3 +1,5 @@
+## Christopher Duggan - Developer Quiz
+
 #### 1) What is the difference between HTTP and HTTPS?
 
 HyperText Transfer Protocol (HTTP) is the set of rules that define how information is passed from a web server to a browser. Information sent using HTTP travels as plain text, making it not very secure. HTTPS (the S stands for security) uses encryption when information is exchanged, which helps reduce security risk.
